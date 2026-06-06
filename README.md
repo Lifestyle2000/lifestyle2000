@@ -1,24 +1,66 @@
-<img src="https://github.com/lifestyle2000.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
-# Lifestyle_2000
-### Game Developer
-
-Leidenschaftlicher Game- und Discord-Bot-Entwickler mit Erfahrung in der Entwicklung von Discord-Bots, Minecraft-Plugins, Roblox-Skripten und individuellen Automatisierungslösungen. Mein Fokus liegt auf der Erstellung leistungsstarker, benutzerfreundlicher und skalierbarer Systeme, die Gaming-Communities und Server optimal unterstützen.
-
-🛠️ **Tech Stack**
-- Intermediate: `HTML/CSS` `JavaScript` `React/Next.js` `Node.js`
-- Beginner: `Tailwind CSS`
-- Advanced: `Java` `Python`
-
-🔭 **Featured Projects**
-- [Firesmp.eu](https://discord.gg/B7MSjZF7uf) - FireSMP mein Eigener Minecraft SMP Server mit vielen Custom Systemen
-
-📊 **GitHub Stats**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lifestyle_2000&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifestyle2000&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifestyle2000&theme=dark" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Discord%20Bots;Minecraft%20Plugins;Websites" alt="Typing introduction" />
 </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=lifestyle2000">
+    <img src="https://komarev.com/ghpvc/?username=lifestyle2000&label=Profile%20views&color=00FFFF&style=flat-square" alt="lifestyle2000's profile views" />
+  </a>
+</p>
+📌 About Me
+Ich bin ein leidenschaftlicher Game Developer mit Erfahrung in der Entwicklung von Spielen, Discord-Bots und individuellen Server-Systemen. Mein Fokus liegt auf kreativen Lösungen, sauberem Code und der Umsetzung innovativer Ideen in funktionale und benutzerfreundliche Projekte. 🚀
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/lifestyle2000)
-- [Website](https://lifestyle2000.netlify.app/)
+📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/lifestyle2000">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lifestyle2000&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lifestyle2000's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=lifestyle2000&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="lifestyle2000's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=lifestyle2000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lifestyle_2000's GitHub Trophies" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+🛠️ Languages & Tools
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+</p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+</p>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+</p>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
+<p align="center">
+  <a href="https://github.com/lifestyle2000">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lifestyle2000&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+![Top language](https://stats.pphat.top/languages?username=lifestyle2000)
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<p align="center"><a href="https://www.buymeacoffee.com/lifestyle_2000" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
